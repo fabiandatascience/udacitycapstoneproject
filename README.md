@@ -2,6 +2,12 @@
 
 This project uses machine learning techniques to analyze customer demographics for a mail-order sales company in Germany, provided by Arvato Financial Services. The goal is to segment customers, compare them to the general population, and use insights to predict potential customers for targeted marketing campaigns.
 
+## Blogpost
+
+The blog post for the Jupyter notebook is available on [Medium](https://medium.com/@fabian.hoetzel/customer-segmentation-and-prediction-for-arvato-financial-services-using-data-science-c1462afe5c22).  
+Additionally, the Jupyter notebook is also available as an [HTML file in the repository](link_to_html_file_in_repository).
+
+
 ## Project Overview
 
 The project consists of two main tasks:
