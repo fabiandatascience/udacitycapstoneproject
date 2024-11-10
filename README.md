@@ -43,3 +43,19 @@ A supervised learning model was trained on the `MAILOUT_TRAIN` data to predict p
 1. **Data Preparation**: Preprocessed the `MAILOUT_TRAIN` dataset to handle missing values and scale features.
 2. **Model Selection**: Random forest classifier with hyperparameter tuning using `GridSearchCV`.
 3. **Evaluation**: Assessed model performance using ROC AUC scoring. The model predicts probabilities of customer conversion on the `MAILOUT_TEST` dataset for Kaggle submission.
+
+
+## Acknowledgements
+
+This project was made possible through the **Udacity Data Science Nanodegree program** in collaboration with **AZ Direct GmbH**. I would like to acknowledge and thank both Udacity and AZ Direct GmbH for providing the resources, data, and guidance that were instrumental in completing this project.
+
+### Dataset Credit and Terms of Use
+
+The dataset used in this project is provided by **AZ Direct GmbH** and is intended solely for educational purposes within the **Unsupervised Learning** and **Bertelsmann Capstone** projects. In accordance with AZ Direct GmbH's General Terms, the data was accessed and used exclusively to fulfill the requirements of this capstone project as part of the Udacity Data Science Nanodegree program.
+
+Terms of Use:
+- This dataset is restricted to the context of the **Bertelsmann Capstone** and **Unsupervised Learning** projects and may not be used outside of these parameters.
+- All data must be deleted within two weeks of project completion.
+- Access to the data is granted only after agreeing to these additional terms.
+
+For more detailed information, please refer to AZ Direct GmbH's terms and conditions provided within the Udacity workspace.
